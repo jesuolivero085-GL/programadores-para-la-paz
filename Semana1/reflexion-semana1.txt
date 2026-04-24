@@ -1,0 +1,7 @@
+El uso responsable de la información en internet está directamente relacionado con la participación ciudadana, ya que una sociedad informada toma mejores decisiones. Cuando las personas verifican y comparten contenido confiable, contribuyen a un entorno digital más seguro y transparente. Esto es similar al trabajo técnico con herramientas como Git, donde cada cambio debe ser claro, organizado y verificable. En Git, los desarrolladores colaboran asegurando que el código sea correcto antes de integrarlo, lo cual evita errores. De la misma manera, en internet debemos validar la información antes de difundirla. Tanto en la ciudadanía digital como en el desarrollo de software, la responsabilidad y la organización son fundamentales. Ambas prácticas fomentan la confianza, el trabajo colaborativo y la calidad de los resultados. (Clipplatform, 2022; Fastercapital, 2025)
+
+Referencias
+
+Clipplatform. (2022). Qué es GIT y por qué usarlo en proyectos de Business Central. Clipplatform.com. https://clipplatform.com/git-en-proyectos-business-central
+
+Fastercapital. (2025). Ciudadania digital Promocion de la ciudadania digital responsable para la ICCH. Fastercapital.com. https://fastercapital.com/es/contenido/Ciudadania-digital--Promocion-de-la-ciudadania-digital-responsable-para-la-ICCH.html
